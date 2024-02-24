@@ -1,0 +1,42 @@
+---
+title: "Vision and Scope Document: Next Great Project"
+author: "(Author)"
+date: "(Date)"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Business Requirements
+
+### Background
+
+### Objectives
+
+### Metrics (Key Results)
+
+### Vision Statement
+
+### Risks
+
+
+## Scope and Limitations
+
+### Major Features
+
+### Scope
+
+### Limitations and Exclusions
+
+
+## Business Context
+
+### Stakeholder Profiles
+
+### Project Priorities
+
+### Deployment Considerations
